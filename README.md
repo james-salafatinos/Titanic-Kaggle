@@ -3,7 +3,8 @@
 - End-to-End basic machine learning model
 - Scaling Comparison
 
-Links:
+Links for further reading:
+
 http://benalexkeen.com/feature-scaling-with-scikit-learn/
 
 
